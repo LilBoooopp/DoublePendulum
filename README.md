@@ -30,4 +30,5 @@ A C++ application for simulating and visualizing the chaotic behavior of a doubl
 sudo apt install libsfml-dev g++
 git clone https://github.com/yourusername/double-pendulum.git
 cd double-pendulum
-make run  # or cmake . && make
+make
+./doublepen

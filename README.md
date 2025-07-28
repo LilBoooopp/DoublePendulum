@@ -32,13 +32,12 @@ git clone https://github.com/yourusername/double-pendulum.git
 cd double-pendulum
 make
 ./doublepen
-
+```
 ### Windows
 1. Install SFML and configure your environment
 2. Open the project in your IDE (e.g. Visual Studio)
 3. Link SFML (graphics, window, system)
 4. Build & run
-```
 
 ---
 
